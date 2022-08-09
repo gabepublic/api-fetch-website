@@ -37,4 +37,4 @@ npx serve src -l 8000
 
 ## References
 
-- 
+- Youtube [Javascript Fetch Api Example](https://www.youtube.com/watch?v=0bec1BmeY4c&t=33s)
