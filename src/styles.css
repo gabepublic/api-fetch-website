@@ -1,0 +1,10 @@
+h1 {
+  font-family: sans-serif;
+  color: blue;
+}
+
+ul.author-list li {
+  background: #cce5ff;
+  margin: 15px;
+  list-style-type:none;
+}
